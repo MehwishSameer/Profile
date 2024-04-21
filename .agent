@@ -1,0 +1,8 @@
+﻿{
+  "agentId": 9,
+  "agentName": "MehwishAgent",
+  "poolId": 10,
+  "poolName": "Devops A1",
+  "serverUrl": "https://dev.azure.com/k201895/",
+  "workFolder": "_work"
+}
